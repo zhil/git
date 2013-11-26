@@ -1,2 +1,2 @@
 <?php
-masd
+print md5("ad");
