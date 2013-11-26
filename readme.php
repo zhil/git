@@ -1,4 +1,4 @@
 <?php
-$var1 = "ads - èçìåíåíèÿ â êîïèè 2";
+$var1 = "ÄÎËÆÍÎ ÁÛÒÜ ÒÀÊ - STABLE";
 /* comment */
 print "adf";
